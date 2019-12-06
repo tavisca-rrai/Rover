@@ -1,0 +1,11 @@
+C:\Users\rarai\source\repos\RoverRanger\RoverRanger\bin\Debug\netcoreapp3.0\RoverRanger.exe
+C:\Users\rarai\source\repos\RoverRanger\RoverRanger\bin\Debug\netcoreapp3.0\RoverRanger.deps.json
+C:\Users\rarai\source\repos\RoverRanger\RoverRanger\bin\Debug\netcoreapp3.0\RoverRanger.runtimeconfig.json
+C:\Users\rarai\source\repos\RoverRanger\RoverRanger\bin\Debug\netcoreapp3.0\RoverRanger.runtimeconfig.dev.json
+C:\Users\rarai\source\repos\RoverRanger\RoverRanger\bin\Debug\netcoreapp3.0\RoverRanger.dll
+C:\Users\rarai\source\repos\RoverRanger\RoverRanger\bin\Debug\netcoreapp3.0\RoverRanger.pdb
+C:\Users\rarai\source\repos\RoverRanger\RoverRanger\obj\Debug\netcoreapp3.0\RoverRanger.csprojAssemblyReference.cache
+C:\Users\rarai\source\repos\RoverRanger\RoverRanger\obj\Debug\netcoreapp3.0\RoverRanger.AssemblyInfoInputs.cache
+C:\Users\rarai\source\repos\RoverRanger\RoverRanger\obj\Debug\netcoreapp3.0\RoverRanger.AssemblyInfo.cs
+C:\Users\rarai\source\repos\RoverRanger\RoverRanger\obj\Debug\netcoreapp3.0\RoverRanger.dll
+C:\Users\rarai\source\repos\RoverRanger\RoverRanger\obj\Debug\netcoreapp3.0\RoverRanger.pdb
